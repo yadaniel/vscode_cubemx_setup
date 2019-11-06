@@ -9,6 +9,7 @@
     "FSharp.lineLens.prefix": " // ",  
     "files.associations": {  
         "cmsis_os.h": "c"  
-    }
+    },
+    "astyle.cmd_options": ["--style=java"]
 }  
 
