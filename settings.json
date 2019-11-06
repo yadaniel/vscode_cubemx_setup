@@ -1,0 +1,14 @@
+{  
+    "terminal.integrated.cwd": "C:\\Users\\yadaniel\\Desktop\\stm32_tests",  
+	"terminal.integrated.shell.windows": "C:\\msys64\\usr\\bin\\bash.exe",  
+    "terminal.integrated.env.windows": {"PATH": "C:\\msys64\\bin;"},  
+    //"terminal.integrated.shellArgs.windows": ["--login", "-i", "-c '/C/Users/yadaniel/Desktop/stm32_tests'"],  
+    "editor.lineNumbers": "relative",  
+    "extensions.ignoreRecommendations": true,  
+    "vim.useSystemClipboard": true,  
+    "FSharp.lineLens.prefix": " // ",  
+    "files.associations": {  
+        "cmsis_os.h": "c"  
+    }
+}  
+
